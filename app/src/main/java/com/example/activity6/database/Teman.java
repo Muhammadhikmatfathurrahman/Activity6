@@ -8,6 +8,7 @@ public class Teman {
     public Teman() {
     }
 
+
     public Teman(String id, String nama, String telpon) {
         this.id = id;
         this.nama = nama;
